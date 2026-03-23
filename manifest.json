@@ -1,0 +1,19 @@
+{
+  "name": "Vox Casino",
+  "short_name": "Vox Casino",
+  "theme_color": "",
+  "background_color": "#171A28",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774265752-48x48.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
